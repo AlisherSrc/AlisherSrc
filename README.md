@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlisherSrc, student of university 
 - 👀 I’m interested in Backend Web-Development 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alisher.seitkali@mail.ru
