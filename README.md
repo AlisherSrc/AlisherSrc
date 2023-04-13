@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AlisherSrc, student of university 
+- 👋 Hi, I’m @AlisherSrc
 - 👀 I’m interested in Web-Development 
-- 🌱 I’m currently creating projects for portfolio
-- 💞️ I’m looking to collaborate on any of web or computer vision projects
+- 🌱 I’m currently creating projects and freelancing
+- 💞️ I’m looking to collaborate on any of web projects
 - 📫 How to reach me alishror171@gamil.com
