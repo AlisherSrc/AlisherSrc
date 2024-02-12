@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @AlisherSrc
-- 👀 I’m interested in Web-Development 
-- 🌱 I’m currently creating projects and freelancing
-- 💞️ I’m looking to collaborate on any of web projects
-- 📫 How to reach me alisherskw@gmail.com
+
